@@ -6,21 +6,18 @@ backgroundSize: 20em 65%
 
 # App Requirements
 
-
-- Frage: 
-    - Welches Problem soll App lösen?
-    - Welchen Nutzen soll App stiften?
-    - Pain points?
-- User: 
-    - Wer nutzt App?
-    - Wie soll App Nutzen stiften? (Prozess: Ist-Zustand vs. Soll-Zustand)
-- Entwicklung der App Vision:
-    - Welche Funktionen stellen wir uns vor?
+- **Ausgangspunkt**: 
+    - Welches Problem/Pain points soll App lösen/Ist-Zustand?
+    - Wer nutzt / Welchen Nutzen soll App stiften?
+- **Solution**:
+    - Inwiefern löst App die beschriebenen Probleme?
+    - Ausarbeitung eines Soll-Zustands
+- Entwicklung der **App Vision**
 
 <br>
 
 > [!NOTE]
-> Ziel: App Requirements Document
+> Ziel: App Requirements Document und Ableitung: Project Scope
 
 
 <footer class="absolute bottom-4 right-6 text-xs opacity-50">

@@ -25,9 +25,31 @@ Dr. Edgar Treischl
 <span> </span>
 </template>
 
+
 ---
 src: ./pages/app_req.md
 ---
+
+---
+src: ./pages/sitemap1.md
+---
+
+---
+src: ./pages/sitemap2.md
+---
+
+
+---
+src: ./pages/personas.md
+---
+
+
+---
+src: ./pages/journey.md
+---
+
+
+
 
 ---
 src: ./pages/00_toc.md
