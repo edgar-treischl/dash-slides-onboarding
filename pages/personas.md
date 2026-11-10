@@ -1,7 +1,5 @@
 ---
-layout: image-right
-image: /lego.png
-backgroundSize: 20em 65%
+layout: default
 ---
 
 # User Personas
