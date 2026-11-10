@@ -49,6 +49,13 @@ src: ./pages/journey.md
 ---
 
 
+---
+src: ./pages/brand.md
+---
+
+---
+src: ./pages/ado.md
+---
 
 
 ---

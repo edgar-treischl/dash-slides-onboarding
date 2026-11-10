@@ -7,7 +7,7 @@ backgroundSize: 20em 65%
 # App Requirements
 
 - **Ausgangspunkt**: 
-    - Welches Problem/Pain points soll App lösen/Ist-Zustand?
+    - Welches Problem/Pain points soll App lösen? Ist-Zustand?
     - Wer nutzt / Welchen Nutzen soll App stiften?
 - **Solution**:
     - Inwiefern löst App die beschriebenen Probleme?
@@ -17,7 +17,7 @@ backgroundSize: 20em 65%
 <br>
 
 > [!NOTE]
-> Ziel: App Requirements Document und Ableitung: Project Scope
+> Ziel: App Requirements Document
 
 
 <footer class="absolute bottom-4 right-6 text-xs opacity-50">
